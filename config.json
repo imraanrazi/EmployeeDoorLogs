@@ -1,0 +1,8 @@
+{
+    "RemoveFourColumns":"True",
+    "dayShiftStartTime":"06:00",
+    "dayShiftEndTime": "17:59",
+    "nightShiftStartTime": "18:00",
+    "nightShiftEndTime": "05:59"
+    
+}
